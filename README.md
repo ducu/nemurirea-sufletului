@@ -1,6 +1,6 @@
 # Nemurirea sufletului
 
-Eseu de Alexandru Stanciu (Filosofie și Studii Europene, anul I, grupa 300), publicat ca pagină statică.
+Eseu de Alexandru Stanciu (Filosofie și Studii Europene, anul I, grupa 300), scris în 2017 și publicat ca pagină statică.
 
 Argumentele pentru nemurirea sufletului din *Phaidon* al lui Platon și o interpretare a lor pornind de la *De anima* a lui Aristotel.
 
