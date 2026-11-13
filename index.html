@@ -57,7 +57,12 @@ h1 {
   font-weight: 650;
   letter-spacing: -0.02em;
   margin: 0 0 1.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
 }
+h1 .psyche { font-size: .8em; font-weight: 400; line-height: 1; }
 .byline { margin: 0; font-size: 1.05rem; line-height: 1.5; }
 .byline strong { font-weight: 600; }
 .affil { margin: .15rem 0 0; color: var(--muted); font-size: .98rem; }
@@ -103,7 +108,7 @@ footer { margin-top: 4rem; padding-top: 1.25rem; border-top: 1px solid var(--rul
 <body>
 <main>
   <header>
-    <h1>Nemurirea sufletului</h1>
+    <h1><span>Nemurirea sufletului</span><span class="psyche" aria-hidden="true">🦋</span></h1>
     <p class="byline"><strong>Alexandru Stanciu</strong></p>
     <p class="affil">Filosofie și Studii Europene, anul I, grupa 300 · <time datetime="2017">2017</time></p>
     <nav aria-label="Secțiuni"><a href="#argumentele">Argumentele</a> <a href="#interpretarea">Interpretarea</a> <a href="#concluzie">Concluzie</a> <a href="#bibliografie">Bibliografie</a></nav>
